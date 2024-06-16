@@ -31,7 +31,7 @@
 mixiot.wlan_connect('SSID','PASSWORD')
 ```
 
-SSID改为WiFi名称；PASSWORD改为WiFi密码
+**SSID为WiFi名称；PASSWORD为WiFi密码**
 
 
 
@@ -39,7 +39,11 @@ SSID改为WiFi名称；PASSWORD改为WiFi密码
 i = str(seniverse_api.weather_now('API_PRIVATE_KEY','CITY'))
 ```
 
-API_PRIVATE_KEY为[心知天气API](https://www.seniverse.com/)的私钥，CITY为所在地城市
+**API_PRIVATE_KEY为[心知天气API](https://www.seniverse.com/)的私钥，CITY为所在地城市**
+
+
+
+------
 
 
 
