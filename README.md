@@ -7,7 +7,7 @@
 
 
 
-### 一、接线图
+### 一、效果图
 
 ​          <img src="/wiringdiagram.png" style="zoom:50%;" />
 
