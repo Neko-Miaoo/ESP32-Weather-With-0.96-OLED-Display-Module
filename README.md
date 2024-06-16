@@ -1,3 +1,7 @@
+---
+typora-root-url: ./
+---
+
 # ESP32-Weather-With-0.96-OLED-Display-Module
 #### ESP32连接0.96’OLED屏幕实时显示天气及温度
 
@@ -7,6 +11,4 @@
 
 
 
-
-
-![32S](C:\Users\62563\Documents\杂七杂八的文档\ESP32\32S.jpg)
+<img src="/wiringdiagram.png" alt="wiringdiagram" style="zoom: 25%;" />
